@@ -1,2 +1,5 @@
 [default]
 port = 8005
+
+[default.databases.todo]
+url = "postgres://copycat:my$strongPa$$@localhost:5442/todo"
